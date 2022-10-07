@@ -1,0 +1,2 @@
+# -Shoppee-Shopping-Cart-Service-Frontend
+The application mostly uses some of the fundamental ideas of HTML, CSS, ReactJS, and Redux.  ## The following features have been added to this application: * Login Service (comming from the Backend, once data is beem verified)  * SignUp Service (data to be stored in MongoDB) * Cart (add/remove selected items to adjust the quantity)  * Shipping Total in real time. 
